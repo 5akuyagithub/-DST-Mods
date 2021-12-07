@@ -1,0 +1,11 @@
+V 1.2
+
+Have you ever worring about your refrigerators are not cold enough? Try this self-tuning ice box then!
+
+-- Tunable ice box can customize the length ratio of refrigeration and unlimited refrigeration in the configuration!
+-- 1x = Double the normal shelf life.
+-- 2x = Quadruple the normal shelf life.
+-- 3x = Six times the normal shelf life.
+-- Infinity = No shelf life for every storable objects inside the ice boxes.
+
+PS: The shelf lives are counting separately. The magnification is based on the power of an ordinary ice box.
